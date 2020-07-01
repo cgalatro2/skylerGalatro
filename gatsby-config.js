@@ -5,9 +5,9 @@ const { spaceId, accessToken, snipcart } = process.env;
 
 module.exports = {
   siteMetadata: {
-    title: `OneShopper`,
-    description: `A starter for a e-commerce powered by Gatsby and Flotiq`,
-    author: `@flotiq`,
+    title: `Skyler Galatro`,
+    description: `Home-Made Art`,
+    author: `Skyler Galatro`,
   },
   plugins: [{
       "resolve": "gatsby-source-flotiq",
@@ -32,8 +32,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `OneShopper`,
-        short_name: `starter`,
+        name: `Skyler Galatro`,
+        short_name: `Sky`,
         start_url: `/`,
         background_color: `#4DB58E`,
         theme_color: `#4DB58E`,
