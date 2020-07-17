@@ -21,7 +21,7 @@ class SpecialRequest extends React.Component {
                   I can!
                 </h3>
                 <h3 className="text-center">
-                  Here are some of the requests I've painted:
+                  Here are some past requests I've painted:
                 </h3>
 
                 <div className="row">
