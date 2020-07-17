@@ -26,13 +26,13 @@ class SpecialRequest extends React.Component {
                 </h3>
 
                 <div className="row">
-                  <div className="col-md-4">
+                  <div className="col-lg-4">
                     <img src="https://images.unsplash.com/flagged/photo-1572392640988-ba48d1a74457?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" />
                   </div>
-                  <div className="col-md-4">
+                  <div className="col-lg-4">
                     <img src="https://images.unsplash.com/photo-1523554888454-84137e72c3ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" />
                   </div>
-                  <div className="col-md-4">
+                  <div className="col-lg-4">
                     <img src="https://images.unsplash.com/flagged/photo-1572392640988-ba48d1a74457?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" />
                   </div>
                 </div>
