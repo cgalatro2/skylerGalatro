@@ -20,6 +20,7 @@ class SpecialRequest extends React.Component {
                   with your picture attached and I'll get back to you as soon as
                   I can!
                 </h3>
+                <hr />
                 <h3 className="text-center">
                   Here are some past requests I've painted:
                 </h3>
