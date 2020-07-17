@@ -22,7 +22,7 @@ const Header = ({ siteTitle }) => (
                 <Link className="nav-link" to="/">Home</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/about">About</Link>
+                <Link className="nav-link" to="/specialRequest">Special Request</Link>
               </li>
             </ul>
             <div className="header-cart">
